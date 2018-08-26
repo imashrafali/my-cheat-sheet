@@ -1,11 +1,13 @@
-# To handle permission denied error
+# My errors in git and solutions 
 
-'''open windows credential manager
-click the github 
-and remove the user you want to remove 
-'''
+## To handle permission denied error
 
-# Error-2
+1. open windows credential manager  
+2. click the github   
+3. remove the user you want to remove 
+
+
+## Error-2
 
 <b> ! [rejected]        master -> master (non-fast-forward)
 error: failed to push some refs to 'git@github.com:imashrafali/my-cheat-sheet.git'
@@ -17,12 +19,11 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
   
 ## solution :
 
-
-'''$git checkout master
-$git pull --rebase origin master
-$git push
-'''
+    $ git checkout master
+    $ git pull --rebase origin master
+    $ git push
+    
 #### optional
 
-'''$git push --set-upstream origin master
-'''
+    $ git push --set-upstream origin master
+
