@@ -1,4 +1,5 @@
-#To handle permission denied error--
+#To handle permission denied error
+
 '''
 open windows credential manager
 click the github 
@@ -6,6 +7,7 @@ and remove the user you want to remove
 '''
 
 #Error-2
+
 '''
  ! [rejected]        master -> master (non-fast-forward)
 error: failed to push some refs to 'git@github.com:imashrafali/my-cheat-sheet.git'
