@@ -1,2 +1,3 @@
-# my-cheat-sheet
-my cheat sheet for adding commands and errors and solving the erros
+# MY-cheat-sheet
+1.  contains commands  
+2.  Errors and Solutions
