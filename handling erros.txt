@@ -1,0 +1,6 @@
+To handle permission denied error--
+
+open windows credential manager
+click the github 
+and remove the user you want to remove 
+

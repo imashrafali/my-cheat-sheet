@@ -1,0 +1,12 @@
+#Use full git commands
+'''
+$git status
+$git add -A, . for staging
+$git commit -m "name"  committing
+'''
+#To connect to git origin i.e git hub
+'''
+$git add remote origin
+$git pull origin master
+$git push origin master
+'''  
