@@ -51,9 +51,24 @@ $git clone "ssh url" .
 $touch .gitignore it creates a empty file
 $notepad .gitignore
 =======
-branches in git
+>>>branches in git
+
 $git branch
 $git branch filename
 $git checkout filename
 $git push origin branchname
+
+>>>To return to master
+$git checkout master
+
+Merging 2 branches
+$git merge 'name of the branch you want to merge to master'
 >>>>>>> test
+
+>>>>>>>To delete the branch locally
+
+$git branch -d 'branchname' -->to delete locally
+
+>>>>>>>To delete branch of github from the gitbash
+
+$git push origin --delete 'branchname'
