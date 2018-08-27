@@ -38,3 +38,14 @@ $git checkout 'filename'
   
 for multiple files
 $git checkout .
+
+cloning A git Repository it creates a folder
+
+$git clone "SSH url"
+
+instead of folder to create a repo
+$git clone "ssh url" .
+
+#to ignore specific files in git
+$touch .gitignore it creates a empty file
+$notepad .gitignore
