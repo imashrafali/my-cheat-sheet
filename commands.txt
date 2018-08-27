@@ -31,3 +31,10 @@ $ git diff --staged 'filename'
 # To unstaged the changes in the file to return it to old state
 
 $ git reset 'filename'
+
+# TO remove the change in the file
+
+$git checkout 'filename'
+  
+for multiple files
+$git checkout .
