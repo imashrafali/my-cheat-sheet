@@ -46,6 +46,14 @@ $git clone "SSH url"
 instead of folder to create a repo
 $git clone "ssh url" .
 
+<<<<<<< HEAD
 #to ignore specific files in git
 $touch .gitignore it creates a empty file
 $notepad .gitignore
+=======
+branches in git
+$git branch
+$git branch filename
+$git checkout filename
+$git push origin branchname
+>>>>>>> test
