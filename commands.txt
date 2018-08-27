@@ -19,3 +19,15 @@ $ git log
 $ git pull origin master
 $ git log
 '''  
+
+# To scan changes in the file we use diff commnad
+
+$ git diff 'filename'
+
+# To scan changes if the file is in staging
+
+$ git diff --staged 'filename'
+
+# To unstaged the changes in the file to return it to old state
+
+$ git reset 'filename'
