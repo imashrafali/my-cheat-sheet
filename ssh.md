@@ -1,5 +1,5 @@
-#Generating a new SSH key
-##Open Git Bash.
+# Generating a new SSH key
+## Open Git Bash.
 
 Paste the text below, substituting in your GitHub email address.
 '''
